@@ -1,29 +1,37 @@
 **Situation**
 
-In the context of financial risk management, predicting customer defaults is a critical task for lenders to mitigate credit risk and optimize portfolio performance. This project was undertaken to develop a predictive model for identifying potential defaulters.
+With a surge in loan applications and repayments, a detailed analysis was essential to understand loan volume trends, repayment efficiency, and areas of elevated credit risk.
 
 **Task**
 
-My role was to perform exploratory data analysis (EDA), preprocess raw customer data, and build a machine learning model to classify customers as potential defaulters or non-defaulters.
-
-[Data Source](https://www.kaggle.com/c/home-credit-default-risk/data?fbclid=IwY2xjawJi-cpleHRuA2FlbQIxMAABHlss3bgB4C6rk_JyHM5yOh1z0xY2avDJhV6tWhMZ-Pg0PfMoCWUio-fF4PA__aem_CdXzq-7-CFLdl6PtXli5QQ)
+My responsibility was to analyze monthly loan data, visualize trends, and identify high-risk segments using Power BI dashboards.
 
 **Action**
 
-* Conducted EDA to understand key patterns and correlations within the dataset.
+* Analyzed loan data to uncover trends in applications, funded amounts, and repayments.
 
-* Preprocessed data by handling missing values, encoding categorical variables, and scaling numerical features.
+* Highlighted high-risk regions and customer segments by evaluating non-performing loan (NPL) ratios.
 
-* Engineered features to improve model performance.
+* Designed interactive Power BI dashboards to present findings on loan growth, repayment patterns, and risk hotspots.
 
-* Implemented machine learning algorithms using Python libraries such as Scikit-learn and XGBoost.
-
-* Optimized the model through hyperparameter tuning and cross-validation.
 
 **Result**
 
-* Achieved a significant improvement in prediction accuracy, enabling better risk profiling.
+At the start of 2021, we were approving around 2,300 loan applications each month. By December, that figure had nearly doubled to 4,300. Behind this jump lies two forces: borrowers hungry for credit as the economy reopened, and our streamlined approval process that turned more applications into funded loans. Even better, customers repaid $473 million over the year—more than the $436 million we disbursed—so cash flow stayed healthy.
 
-* Provided insights to enhance credit approval processes and reduce default rates.
+--> Strong origination and repayment mean our product is in demand and our collections are working.
+![image](https://github.com/user-attachments/assets/feafc73f-70be-4a2a-b7a3-eb6f17d6309f)
 
-* Gained hands-on experience in Python-based machine learning workflows.
+Just as encouraging as growth, though, is a cautionary signal: our non-performing loan (NPL) rate crept up from roughly 11 percent in early spring to peaks above 15 percent in May and again in December. In plain English, more loans are slipping into serious delinquency.
+
+California and Florida stand out as trouble spots. In Florida, nearly 1 in 6 loans went bad.
+![image](https://github.com/user-attachments/assets/fad194e3-256d-4e39-aad9-2d20fc2c9da5)
+
+
+Longer terms and lower credit grades are especially vulnerable—60-month loans and grades C through E saw far higher charge-off rates than our prime A–B borrowers.
+![image](https://github.com/user-attachments/assets/f864a715-7f17-4e90-99eb-3e00a88a2368)
+
+![image](https://github.com/user-attachments/assets/0165ebff-9129-493f-ae04-10ad7cbe23bd)
+
+
+
