@@ -6,7 +6,7 @@ In the context of financial risk management, predicting customer defaults is a c
 
 My role was to perform exploratory data analysis (EDA), preprocess raw customer data, and build a machine learning model to classify customers as potential defaulters or non-defaulters.
 
-[Data Source]([url](https://www.kaggle.com/c/home-credit-default-risk/data?fbclid=IwY2xjawJi-cpleHRuA2FlbQIxMAABHlss3bgB4C6rk_JyHM5yOh1z0xY2avDJhV6tWhMZ-Pg0PfMoCWUio-fF4PA__aem_CdXzq-7-CFLdl6PtXli5QQ))
+[Data Source](https://www.kaggle.com/c/home-credit-default-risk/data?fbclid=IwY2xjawJi-cpleHRuA2FlbQIxMAABHlss3bgB4C6rk_JyHM5yOh1z0xY2avDJhV6tWhMZ-Pg0PfMoCWUio-fF4PA__aem_CdXzq-7-CFLdl6PtXli5QQ)
 
 **Action**
 
